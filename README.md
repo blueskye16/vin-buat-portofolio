@@ -6,7 +6,21 @@ Beside that, I really enjoy processing data using several tools such as SQL, spr
 
 ___
 
-<h3 align="center">Non Formal Education</h3>
+<h3 align="center">
+  <a name="non-formal-education"></a>Non Formal Education</a>
+</h3>
+
+> #### MSIB Studi Independen Dicoding
+
+<h5>Front End Web and Back End Training | Agustus 2023 - Desember 2023</h5>
+
+<p>Jelasin</p>
+
+> #### RevoU Mini Course
+
+<h5>Front End Web and Back End Training | May 2024</h5>
+
+<p>Jelasin</p>
 
 ___
 
@@ -64,11 +78,14 @@ ___
 [<img src="https://img.shields.io/badge/Laravel-282C30?logo=Laravel" alt="Laravel logo" title="Laravel" height="25" />][skilss_and_tools_anchor]
 &nbsp;
 
-<p>
-  <a href="https://github.com/blueskye16">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blueskye16&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+<h4>My Code Statistic by Github</h4>
+
+<a href="https://github.com/blueskye16">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blueskye16&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+<a href="https://github.com/blueskye16">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blueskye16&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
 ___
 
