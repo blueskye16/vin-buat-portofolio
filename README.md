@@ -1,4 +1,4 @@
-### Hi There! 👋 I'm Kevin.
+## Hi There! 👋 I'm Kevin.
 
 <p align="justify">An Software Engineer student who loves to create and share projects about web and data processing technology! I've enjoyed Working on website projects, about how to develop a website that more interactive and in line with user needs.</p>
 
@@ -6,13 +6,13 @@ Beside that, I really enjoy processing data using several tools such as SQL, spr
 
 ___
 
-### Non Formal Education
+<h3 align="center">Non Formal Education</h3>
 
 ___
 
-### Skilss & Tools
-
-<a name="skilss-and-tools"></a>
+<h3 align="center">
+  <a name="skilss-and-tools">Skilss and Tools</a>
+</h3>
 
 <p align="center">
   As a student majoring in information systems, I eagerly caught on front-end
@@ -20,7 +20,11 @@ ___
   learn and develop my skills to hone my abilities in:
 </p>
 
+<h4>Technologies and Tools</h4>
+
 [<img src="https://img.shields.io/badge/VS%20code-282C30?logo=visual%20studio%20code&logoColor=blue" alt="VS code logo" title="VsCode" height="25" />][skilss_and_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/XAMPP-282C30?logo=xampp" alt="XAMPP logo" title="XAMPP" height="25" />][skilss_and_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/html-282C30?logo=html5&logoColor=orange" alt="HTML logo" title="HTML" height="25" />][skilss_and_tools_anchor]
 &nbsp;
@@ -33,6 +37,31 @@ ___
 [<img src="https://img.shields.io/badge/Python-282C30?logo=python" alt="Python logo" title="Python" height="25" />][skilss_and_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Git-282C30?logo=git&logoColor=orange" alt="Git logo" title="Git" height="25" />][skilss_and_tools_anchor]
+&nbsp;
+
+<h4>Data Processing and Vizualitation</h4>
+
+[<img src="https://img.shields.io/badge/My%20Sql-282C30?logo=mysql" alt="My Sql logo" title="MySql" height="25" />][skilss_and_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Microsoft%20Excel-282C30?logo=microsoft%20excel&logoColor=rgb(4%2C%20124%2C%204)" alt="Microsoft Excel logo" title="MsExcel" height="25" />][skilss_and_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Tableau-282C30?logo=tableau" alt="Tableau logo" title="Tableau" height="25" />][skilss_and_tools_anchor]
+&nbsp;
+
+<h4>Digital Marketing</h4>
+
+[<img src="https://img.shields.io/badge/Wordpress-282C30?logo=wordpress&logoColor=blue" alt="Wordpress logo" title="Wordpress" height="25" />][skilss_and_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Odoo-282C30?logo=odoo&logoColor=rgb(202%2C%2016%2C%20202)" alt="Odoo logo" title="Odoo" height="25" />][skilss_and_tools_anchor]
+&nbsp;
+
+<h4>Currently or Interest in Learning</h4>
+
+[<img src="https://img.shields.io/badge/Laragon-282C30?logo=Laragon" alt="Laragon logo" title="Laragon" height="25" />][skilss_and_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C30?logo=tailwindcss" alt="Tailwind logo" title="Tailwind" height="25" />][skilss_and_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Laravel-282C30?logo=Laravel" alt="Laravel logo" title="Laravel" height="25" />][skilss_and_tools_anchor]
 &nbsp;
 
 <p>
