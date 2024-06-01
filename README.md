@@ -10,7 +10,7 @@ ___
   <a name="non-formal-education"></a>Non Formal Education</a>
 </h3>
 
-<p align="center">paragpah</p>
+<p align="center">As students, of course we are required to always study. Therefore, I always strive to gain knowledge and insight that is useful for my career. Here are some of them</p>
 
 #### MSIB Studi Independen Dicoding
 
@@ -31,7 +31,6 @@ ___
 > - Process data using SQL Bigquery, prepare datasets and convert them into valuable information
 > - Understand various types of data visualization and practice data visualization using Tableau Public
 > - Case study processing health data in West Java district using Tableau Public data visualization
-
 
 ___
 
