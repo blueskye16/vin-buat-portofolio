@@ -145,7 +145,7 @@ ___
       <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/dicoding-aws/wSize-Dicoding AWS_page-0001.jpg" alt="AWS Certification Dicoding" width="50%">
     </td>
     <td>
-      <a href="https://drive.google.com/file/d/1NE7wXhl2Nm93qgjiL3k4Cp3qJMclDQad/view?usp=drive_link"><img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/stupen-dicoding/[SIB Cycle 5] Sertifikat - F182YB161_page-0001.jpg" alt="Studi Independen Dicoding" width="50%"></a>
+      <a href="https://drive.google.com/file/d/1NE7wXhl2Nm93qgjiL3k4Cp3qJMclDQad/view?usp=drive_link" target="_blank"><img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/stupen-dicoding/[SIB Cycle 5] Sertifikat - F182YB161_page-0001.jpg" alt="Studi Independen Dicoding" width="50%"></a>
     </td>
   </tr>
   <tr align="center">
