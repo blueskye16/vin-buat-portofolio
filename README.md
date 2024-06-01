@@ -134,23 +134,25 @@ ___
 
 ___
 
-### Certification
+<h3 align="center">
+  <a name="my-certification">Even though it is not a measure of someone's abilities, these are some of the certification achievements that I have obtained</a>
+</h3>
 
 <table border="0">
   <tr align="center">
     <td>
-      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/PPM%202022_page-0001.jpg" alt="PPM 2022" width="50%%">
+      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/stupen-dicoding/" alt="Studi Independen Dicoding" width="50%%">
     </td>
     <td>
-      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/PPM%202022_page-0001.jpg" alt="PPM 2022" width="50%%">
+      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/dicoding-aws/Dicoding%AWS_page-0001.jpg" alt="AWS Certification Dicoding" width="50%%">
     </td>
   </tr>
   <tr align="center">
     <td>
-      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/PPM%202022_page-0001.jpg" alt="PPM 2022" width="50%%">
+      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/ms-office/Sertif Ms Office_page-0001.jpg" alt="MS Office Certification" width="50%%">
     </td>
     <td>
-      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/PPM%202022_page-0001.jpg" alt="PPM 2022" width="50%%">
+      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/Fabianus%Kevin%Senduk%(1).jpg" alt="Sololearn Basic Python Certification" width="50%%">
     </td>
   </tr>
 </table>
@@ -167,7 +169,7 @@ ___
 [intro_anchor]: #intro--
 [non_formal_education_anchor]: #non-formal-education
 [skilss_and_tools_anchor]: #skilss-and-tools
-[certification_anchor]: #certification--
+[my_certification_anchor]: #my-certification
 [my_project_anchor]: #my-project
 [volunteer_organization_anchor]: #volunteer-organization
 [social_media_anchor]: #social-media
