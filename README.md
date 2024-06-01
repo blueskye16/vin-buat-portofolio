@@ -10,17 +10,28 @@ ___
   <a name="non-formal-education"></a>Non Formal Education</a>
 </h3>
 
-> #### MSIB Studi Independen Dicoding
+<p align="center">paragpah</p>
 
-<h5>Front End Web and Back End Training | Agustus 2023 - Desember 2023</h5>
+#### MSIB Studi Independen Dicoding
 
-<p>Jelasin</p>
+##### Front End Web and Back End Training | Agustus 2023 - Desember 2023
 
-> #### RevoU Mini Course
+> In this independent study training, I deepened my knowledge on "Website Front End and Back End". By practicing various programming topics and tools needed to create a website. Some of them include:
+> - Create a simple website by following global standards
+> - Work with Github to manage data / code collections in the Github repository. As well as collaborating with other developers on the same repository
+> - Create web front-end applications with ES6 standard JavaScript code, implement Web Components, Webpack and display dynamic data from Web API using AJAX
+> - Build front-end web applications that are responsive, easy to maintain, have native properties, can be tested and have good performance
 
-<h5>Front End Web and Back End Training | May 2024</h5>
+#### RevoU Mini Course
 
-<p>Jelasin</p>
+##### Data Analytic Program | May 2024
+
+> In this data analysis training with RevoU MiniCourse, I learned and practiced the various requirements needed as a data analyst using SQL, Bigquery and Tableau Public. Here are the details:
+> - Learn about the steps to implement data analysis in various fields and gain insights for business needs
+> - Process data using SQL Bigquery, prepare datasets and convert them into valuable information
+> - Understand various types of data visualization and practice data visualization using Tableau Public
+> - Case study processing health data in West Java district using Tableau Public data visualization
+
 
 ___
 
@@ -97,20 +108,30 @@ ___
   pengantar
 </p>
 
-| Description | Image |
-|---|---|
-| Lorem ipsum dolor sit amet... | <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/PPM%202022_page-0001.jpg" alt="ff" width="25%"> |
-| Lorem ipsum dolor sit amet... | <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/PPM%202022_page-0001.jpg" alt="ff" width="25%"> |
+- projek digimar
+
+<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/PPM%202022_page-0001.jpg" alt="ff" width="30%">
 
 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere laudantium quasi tenetur saepe nulla! Velit ipsam dolor et fuga ea.</p>
 
-<img align="right" src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/PPM%202022_page-0001.jpg" alt="ff" width="200">
+- projek digimar
 
-___
+<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/PPM%202022_page-0001.jpg" alt="ff" width="30%">
 
 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere laudantium quasi tenetur saepe nulla! Velit ipsam dolor et fuga ea.</p>
 
-<img align="right" src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/PPM%202022_page-0001.jpg" alt="ff" width="200">
+- projek digimar
+
+<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/PPM%202022_page-0001.jpg" alt="ff" width="30%">
+
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere laudantium quasi tenetur saepe nulla! Velit ipsam dolor et fuga ea.</p>
+
+- projek digimar
+
+<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/PPM%202022_page-0001.jpg" alt="ff" width="30%">
+
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere laudantium quasi tenetur saepe nulla! Velit ipsam dolor et fuga ea.</p>
+
 
 ___
 
