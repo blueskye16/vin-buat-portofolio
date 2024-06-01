@@ -39,8 +39,7 @@ ___
 </h3>
 
 <p align="center">
-  As a student majoring in information systems, I eagerly caught on front-end
-  development and data processing vizualitation. Committed to continuing to
+  I eagerly caught on front-end development and data processing vizualitation. Committed to continuing to
   learn and develop my skills to hone my abilities in:
 </p>
 
@@ -104,7 +103,7 @@ ___
 </h3>
 
 <p align="center">
-  pengantar
+  Some of the projects I have worked on cover several areas such as websites, data analysis and digital marketing / ecommerce
 </p>
 
 - projek digimar
@@ -135,21 +134,23 @@ ___
 ___
 
 <h3 align="center">
-  <a name="my-certification">Even though it is not a measure of someone's abilities, these are some of the certification achievements that I have obtained</a>
+  <a name="my-certification">Certification</a>
 </h3>
+
+<p align="center">Even though it is not a measure of someone's abilities, these are some of the certification achievements that I have obtained</p>
 
 <table border="0">
   <tr align="center">
     <td>
-      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/dicoding-aws/Dicoding AWS_page-0001.jpg" alt="AWS Certification Dicoding" width="50%">
+      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/dicoding-aws/wSize-Dicoding AWS_page-0001.jpg" alt="AWS Certification Dicoding" width="50%">
     </td>
     <td>
-      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/stupen-dicoding/[SIB Cycle 5] Sertifikat - F182YB161_page-0001.jpg" alt="Studi Independen Dicoding" width="50%">
+      <a href="https://drive.google.com/file/d/1NE7wXhl2Nm93qgjiL3k4Cp3qJMclDQad/view?usp=drive_link"><img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/stupen-dicoding/[SIB Cycle 5] Sertifikat - F182YB161_page-0001.jpg" alt="Studi Independen Dicoding" width="50%"></a>
     </td>
   </tr>
   <tr align="center">
     <td>
-      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/Fabianus Kevin Senduk (1).jpg" alt="Sololearn Basic Python Certification" width="50%">
+      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/Sololearn_certification beginner python.png" alt="Sololearn Basic Python Certification" width="50%">
     </td>
     <td>
       <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/ms-office/Sertif Ms Office_page-0001.jpg" alt="MS Office Certification" width="50%">
