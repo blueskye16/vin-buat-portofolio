@@ -141,18 +141,18 @@ ___
 <table border="0">
   <tr align="center">
     <td>
-      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/stupen-dicoding/" alt="Studi Independen Dicoding" width="50%%">
+      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/dicoding-aws/Dicoding AWS_page-0001.jpg" alt="AWS Certification Dicoding" width="50%">
     </td>
     <td>
-      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/dicoding-aws/Dicoding%AWS_page-0001.jpg" alt="AWS Certification Dicoding" width="50%%">
+      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/stupen-dicoding/[SIB Cycle 5] Sertifikat - F182YB161_page-0001.jpg" alt="Studi Independen Dicoding" width="50%">
     </td>
   </tr>
   <tr align="center">
     <td>
-      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/ms-office/Sertif Ms Office_page-0001.jpg" alt="MS Office Certification" width="50%%">
+      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/Fabianus Kevin Senduk (1).jpg" alt="Sololearn Basic Python Certification" width="50%">
     </td>
     <td>
-      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/Fabianus%Kevin%Senduk%(1).jpg" alt="Sololearn Basic Python Certification" width="50%%">
+      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/ms-office/Sertif Ms Office_page-0001.jpg" alt="MS Office Certification" width="50%">
     </td>
   </tr>
 </table>
