@@ -169,21 +169,23 @@ ___
 <table border="0">
   <tr align="center">
     <td>
-      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/dicoding-aws/wSize-Dicoding AWS_page-0001.jpg" alt="AWS Certification Dicoding" width="50%">
+      <a href="https://drive.google.com/file/d/1znx2uOWJK-msQ7SKP84Q_YfhRebhjgt2/view?usp=drive_link" target="_blank"><img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/dicoding-aws/wSize-Dicoding AWS_page-0001.jpg" title="AWS Certification Dicoding" alt="AWS Certification Dicoding" width="50%"/></a>
     </td>
     <td>
-      <a href="https://drive.google.com/file/d/1NE7wXhl2Nm93qgjiL3k4Cp3qJMclDQad/view?usp=drive_link" target="_blank"><img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/stupen-dicoding/[SIB Cycle 5] Sertifikat - F182YB161_page-0001.jpg" alt="Studi Independen Dicoding" width="50%"></a>
+      <a href="https://drive.google.com/file/d/1NE7wXhl2Nm93qgjiL3k4Cp3qJMclDQad/view?usp=drive_link" target="_blank"><img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/stupen-dicoding/[SIB Cycle 5] Sertifikat - F182YB161_page-0001.jpg" title="Front End Web and Back End" alt="Front End Web and Back End" width="50%"></a>
     </td>
   </tr>
   <tr align="center">
     <td>
-      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/Sololearn_certification beginner python.png" alt="Sololearn Basic Python Certification" width="50%">
+      <a href="https://drive.google.com/file/d/1G4boVE-LKmxit-xqhCzxI8lH1TlfKTED/view?usp=drive_link" target="_blank"><img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/Sololearn_certification beginner python.png" title="Sololearn Basic Python" alt="Sololearn Basic Python Certification" width="50%"></a>
     </td>
     <td>
-      <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/ms-office/Sertif Ms Office_page-0001.jpg" alt="MS Office Certification" width="50%">
+      <a href="https://drive.google.com/file/d/1xas0PTRs2cyDTKZesO4myTX_VwTVVzwL/view?usp=drive_link" target="_blank"><img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/ms-office/Sertif Ms Office_page-0001.jpg" title="Applied Ms. Office" alt="MS Office Certification" width="50%"></a>
     </td>
   </tr>
 </table>
+
+_For certification details please click the picture_
 
 ___
 
