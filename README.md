@@ -117,11 +117,11 @@ ___
 
 - Data Visualization Using Tableau
 
-<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/RevoU-Dash-Penduduk_Kab.png" alt="RevoU Data Analyst Project" width="30%" height="200rem">
+<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/RevoU-Dash-Penduduk_Kab.png" alt="RevoU Data Analyst Project" width="30%"/>
 
 <p width="90%">This project is one of the tasks when participating in RevoU Data Analyst activities. By analyzing <b>Health facilities and health insurance in West Java Regency.</b> I used the Tableau Public application to find insights from the analyzed data, so that several new insights were discovered which were then visualized on the Tableau Public website.</p>
 
-[<img src="https://img.shields.io/badge/Visit-0A9812?link=https%3A%2F%2Fpublic.tableau.com%2Fapp%2Fprofile%2Ffabianus.senduk%2Fviz%2FJumlahFaskesJaminanKesehatanJabar-MiniCourseRevoU%2FDash-PendudukKab" title="Visit" alt="Visit JadwalPlus Web" height="25" />][my_project_anchor]
+<img src="https://img.shields.io/badge/Visit-0A9812?link=https%3A%2F%2Fpublic.tableau.com%2Fapp%2Fprofile%2Ffabianus.senduk%2Fviz%2FJumlahFaskesJaminanKesehatanJabar-MiniCourseRevoU%2FDash-PendudukKab" title="Visit" alt="Visit JadwalPlus Web" height="25" />
 
 - JadwalPlus
 
