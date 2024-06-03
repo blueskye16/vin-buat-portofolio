@@ -8,7 +8,9 @@ Beside that, I really enjoy processing data using several tools such as SQL, spr
 > [!TIP]
 > _For more better reading experience, please use destkop_ 😸
 
-___  <!-- EDU SECTION -->
+___  
+
+<!-- EDU SECTION -->
 
 <h3 align="center">
   <a name="non-formal-education"></a>Non Formal Education</a>
@@ -36,7 +38,9 @@ ___  <!-- EDU SECTION -->
 > - Understand various types of data visualization and practice data visualization using Tableau Public
 > - Case study processing health data in West Java district using Tableau Public data visualization
 
-___ <!-- SKILSS & TOOLS SECTION -->
+___ 
+
+<!-- SKILSS & TOOLS SECTION -->
 
 <h3 align="center">
   <a name="skilss-and-tools">Skilss and Tools</a>
@@ -100,7 +104,9 @@ ___ <!-- SKILSS & TOOLS SECTION -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blueskye16&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-___ <!-- PROJECT SECTION -->
+___ 
+
+<!-- PROJECT SECTION -->
 
 <h3 align="center">
   <a name="my-project">My Project</a>
@@ -133,8 +139,13 @@ ___ <!-- PROJECT SECTION -->
 <img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/tmdb-movies.png" alt="TMDB Movies Project" width="30%">
 
 <p>TMDB Movies is a website created using the API from the official TMDB website. Designed using Webpack, Bootstrap, and Jquery. Allows users to find films contained in the TMDB database.</p>
+<img src="https://img.shields.io/badge/Visit-0A9812?link=https%3A%2F%2Fmain-web-movies.vercel.app%2F" alt="Visit TMDB Web">
+&nbsp;
+<img src="https://img.shields.io/badge/Go%20to%20Repo-0A9812?link=https%3A%2F%2Fgithub.com%2Fblueskye16%2Fmain-web-movies.git" alt="TMDB Movies Repo">
 
-___ <!-- CERTIFICATION SECTION -->
+___ 
+
+<!-- CERTIFICATION SECTION -->
 
 <h3 align="center">
   <a name="my-certification">Certification</a>
