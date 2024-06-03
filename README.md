@@ -122,26 +122,40 @@ ___
 
 <p width="90%">This project is one of the tasks when participating in RevoU Data Analyst activities. By analyzing <b>Health facilities and health insurance in West Java Regency.</b> I used the Tableau Public application to find insights from the analyzed data, so that several new insights were discovered which were then visualized on the Tableau Public website.</p>
 
+[<img src="https://img.shields.io/badge/Visit-0A9812?link=https%3A%2F%2Fpublic.tableau.com%2Fapp%2Fprofile%2Ffabianus.senduk%2Fviz%2FJumlahFaskesJaminanKesehatanJabar-MiniCourseRevoU%2FDash-PendudukKab" title="Visit" alt="Visit JadwalPlus Web" height="25" />][my_project_anchor]
+
 - JadwalPlus
 
-<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/jadwalPlus.png" alt="JadwalPlus Project" width="30%">
+<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/jadwalPlus.png" alt="JadwalPlus Project" width="50%">
 
 <p>JadwalPlus is a website designed to manage activities. This website was designed together with the team while participating in the Independent Coding Study. We use several technologies such as React, Vite, Mongo DB and Tailwind to design websites. JadwalPlus has features such as user login / register, schedule CRUD, schedule search, and account control to delete or change passwords.</p>
 
+[<img src="https://img.shields.io/badge/Visit-0A9812?link=https%3A%2F%2Fjadwalplus-client.vercel.app%2F" title="Visit" alt="Visit JadwalPlus Web" height="25" />][my_project_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Go%20to%20Repo-0A9812?link=https%3A%2F%2Fgithub.com%2Fmengcapstone" title="Go to Repo" alt="Time JadwalPlus Repo" height="25" />][my_project_anchor]
+&nbsp;
+
 - Time Calculator
 
-<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/time-calculator.png" alt="Time Calculator Project" width="30%">
+<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/time-calculator.png" alt="Time Calculator Project" width="50%">
 
 <p>Time calculator is an independent project I developed with the main function to calculate time based on hours and minutes. This simple project was created with Vanilla JavaScript using the Bootstrap framework.</p>
 
+[<img src="https://img.shields.io/badge/Visit-0A9812?link=https%3A%2F%2Ftime-calc.000webhostapp.com%2F" title="Visit" alt="Visit Time Calculator Web" height="25" />][my_project_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Go%20to%20Repo-0A9812?link=https%3A%2F%2Fgithub.com%2Fblueskye16%2Ftime-calculator" title="Go to Repo" alt="Time Calculator Repo" height="25" />][my_project_anchor]
+&nbsp;
+
 - TMDB Movies
 
-<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/tmdb-movies.png" alt="TMDB Movies Project" width="30%">
+<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/tmdb-movies.png" alt="TMDB Movies Project" width="50%">
 
 <p>TMDB Movies is a website created using the API from the official TMDB website. Designed using Webpack, Bootstrap, and Jquery. Allows users to find films contained in the TMDB database.</p>
-<img src="https://img.shields.io/badge/Visit-0A9812?link=https%3A%2F%2Fmain-web-movies.vercel.app%2F" alt="Visit TMDB Web">
+
+[<img src="https://img.shields.io/badge/Visit-0A9812?link=https%3A%2F%2Fmain-web-movies.vercel.app%2F" title="Visit" alt="Visit TMDB Web" height="25" />][my_project_anchor]
 &nbsp;
-<img src="https://img.shields.io/badge/Go%20to%20Repo-0A9812?link=https%3A%2F%2Fgithub.com%2Fblueskye16%2Fmain-web-movies.git" alt="TMDB Movies Repo">
+[<img src="https://img.shields.io/badge/Go%20to%20Repo-0A9812?link=https%3A%2F%2Fgithub.com%2Fblueskye16%2Fmain-web-movies.git" title="Go to Repo" alt="TMDB Movies Repo" height="25" />][my_project_anchor]
+&nbsp;
 
 ___ 
 
@@ -151,7 +165,7 @@ ___
   <a name="my-certification">Certification</a>
 </h3>
 
-<p align="center">Even though it is not a measure of someone's abilities, these are some of the certification achievements that I have obtained</p>
+<p align="center">Even though it is not a complete measure of someone's abilities, these are some of the certification achievements that I have obtained</p>
 
 <table border="0">
   <tr align="center">
