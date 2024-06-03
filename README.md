@@ -98,10 +98,9 @@ ___
 <h4>My Code Statistic by Github</h4>
 
 <a href="https://github.com/blueskye16">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blueskye16&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-<a href="https://github.com/blueskye16">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blueskye16&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blueskye16&layout=compact&langs_count=8&theme=algolia" title="Top Languanges Used in Repo" alt="Top Languanges Used in Repo"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blueskye16&theme=tokyonight" title="Top Languanges Used in Repo" alt="Top Languanges Used in Repo"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blueskye16&theme=dracula" title="Profile Details Card" alt="Profile Details Card"/>
 </a>
 
 ___ 
