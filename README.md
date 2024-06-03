@@ -4,7 +4,11 @@
 
 Beside that, I really enjoy processing data using several tools such as SQL, spreadsheets and Tableau. I think I will never get tired of getting valuable information from data to process it into more valuable information.
 
-___
+
+> [!TIP]
+> _For more better reading experience, please use destkop_ 😸
+
+___  <!-- EDU SECTION -->
 
 <h3 align="center">
   <a name="non-formal-education"></a>Non Formal Education</a>
@@ -32,7 +36,7 @@ ___
 > - Understand various types of data visualization and practice data visualization using Tableau Public
 > - Case study processing health data in West Java district using Tableau Public data visualization
 
-___
+___ <!-- SKILSS & TOOLS SECTION -->
 
 <h3 align="center">
   <a name="skilss-and-tools">Skilss and Tools</a>
@@ -96,7 +100,7 @@ ___
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blueskye16&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-___
+___ <!-- PROJECT SECTION -->
 
 <h3 align="center">
   <a name="my-project">My Project</a>
@@ -106,32 +110,31 @@ ___
   Some of the projects I have worked on cover several areas such as websites, data analysis and digital marketing / ecommerce
 </p>
 
-- projek digimar
+- Data Visualization Using Tableau
 
-<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/PPM%202022_page-0001.jpg" alt="ff" width="30%">
+<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/RevoU-Dash-Penduduk_Kab.png" alt="RevoU Data Analyst Project" width="30%" height="200rem">
 
-<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere laudantium quasi tenetur saepe nulla! Velit ipsam dolor et fuga ea.</p>
+<p width="90%">This project is one of the tasks when participating in RevoU Data Analyst activities. By analyzing <b>Health facilities and health insurance in West Java Regency.</b> I used the Tableau Public application to find insights from the analyzed data, so that several new insights were discovered which were then visualized on the Tableau Public website.</p>
 
-- projek digimar
+- JadwalPlus
 
-<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/PPM%202022_page-0001.jpg" alt="ff" width="30%">
+<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/jadwalPlus.png" alt="JadwalPlus Project" width="30%">
 
-<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere laudantium quasi tenetur saepe nulla! Velit ipsam dolor et fuga ea.</p>
+<p>JadwalPlus is a website designed to manage activities. This website was designed together with the team while participating in the Independent Coding Study. We use several technologies such as React, Vite, Mongo DB and Tailwind to design websites. JadwalPlus has features such as user login / register, schedule CRUD, schedule search, and account control to delete or change passwords.</p>
 
-- projek digimar
+- Time Calculator
 
-<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/PPM%202022_page-0001.jpg" alt="ff" width="30%">
+<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/time-calculator.png" alt="Time Calculator Project" width="30%">
 
-<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere laudantium quasi tenetur saepe nulla! Velit ipsam dolor et fuga ea.</p>
+<p>Time calculator is an independent project I developed with the main function to calculate time based on hours and minutes. This simple project was created with Vanilla JavaScript using the Bootstrap framework.</p>
 
-- projek digimar
+- TMDB Movies
 
-<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/PPM%202022_page-0001.jpg" alt="ff" width="30%">
+<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/tmdb-movies.png" alt="TMDB Movies Project" width="30%">
 
-<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere laudantium quasi tenetur saepe nulla! Velit ipsam dolor et fuga ea.</p>
+<p>TMDB Movies is a website created using the API from the official TMDB website. Designed using Webpack, Bootstrap, and Jquery. Allows users to find films contained in the TMDB database.</p>
 
-
-___
+___ <!-- CERTIFICATION SECTION -->
 
 <h3 align="center">
   <a name="my-certification">Certification</a>
