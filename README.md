@@ -192,7 +192,17 @@ ___
 ___
 
 ### Reach me on
-- <a href="[https://linkedin.com/in/dimasmds/](https://www.linkedin.com/in/fabianus-kevin-406285231/)">LinkedIn</a>
+
+<a href="https://www.linkedin.com/in/fabianus-kevin-406285231/"><img src="https://img.shields.io/badge/Linkedin-8A2BE2?logo=linkedin&logoColor=blue&color=white" title="Linkedin" alt="Linkedin" /></a>
+&nbsp;
+<a href="https://github.com/blueskye16"><img src="https://img.shields.io/badge/Github-8A2BE2?logo=github&logoColor=black&color=white" title="Github" alt="Github" /></a>
+&nbsp;
+<a href="https://github.com/blueskye16"><img src="https://img.shields.io/badge/Instagram-8A2BE2?logo=Instagram&logoColor=purple&color=white" title="Instagram" alt="Instagram" /></a>
+&nbsp;
+<a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-%40kepinh_-8A2BE2?logo=Discord&logoColor=blue&color=white" title="Discord" alt="Discord" /></a>
+&nbsp;
+
+
 
 [intro_anchor]: #intro--
 [non_formal_education_anchor]: #non-formal-education
