@@ -4,10 +4,6 @@
 
 Beside that, I really enjoy processing data using several tools such as SQL, spreadsheets and Tableau. I think I will never get tired of getting valuable information from data to process it into more valuable information.
 
-
-> [!TIP]
-> _For more better reading experience, please use destkop_ 😸
-
 ___  
 
 <!-- EDU SECTION -->
@@ -117,7 +113,7 @@ ___
 
 - Data Visualization Using Tableau
 
-<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/RevoU-Dash-Penduduk_Kab.png" alt="RevoU Data Analyst Project" width="30%"/>
+<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/RevoU-Dash-Penduduk_Kab.png" title="RevoU Data Analyst Project" alt="RevoU Data Analyst Project" width="30%"/>
 
 <p width="90%">This project is one of the tasks when participating in RevoU Data Analyst activities. By analyzing <b>Health facilities and health insurance in West Java Regency.</b> I used the Tableau Public application to find insights from the analyzed data, so that several new insights were discovered which were then visualized on the Tableau Public website.</p>
 
@@ -125,7 +121,7 @@ ___
 
 - JadwalPlus
 
-<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/jadwalPlus.png" alt="JadwalPlus Project" width="50%">
+<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/jadwalPlus.png" title="JadwalPlus Project" alt="JadwalPlus Project" width="50%">
 
 <p>JadwalPlus is a website designed to manage activities. This website was designed together with the team while participating in the Independent Coding Study. We use several technologies such as React, Vite, Mongo DB and Tailwind to design websites. JadwalPlus has features such as user login / register, schedule CRUD, schedule search, and account control to delete or change passwords.</p>
 
@@ -136,7 +132,7 @@ ___
 
 - Time Calculator
 
-<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/time-calculator.png" alt="Time Calculator Project" width="50%">
+<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/time-calculator.png" title="Time Calculator Project" alt="Time Calculator Project" width="50%">
 
 <p>Time calculator is an independent project I developed with the main function to calculate time based on hours and minutes. This simple project was created with Vanilla JavaScript using the Bootstrap framework.</p>
 
@@ -147,7 +143,7 @@ ___
 
 - TMDB Movies
 
-<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/tmdb-movies.png" alt="TMDB Movies Project" width="50%">
+<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/tmdb-movies.png" title="TMDB Movies Project" alt="TMDB Movies Project" width="50%">
 
 <p>TMDB Movies is a website created using the API from the official TMDB website. Designed using Webpack, Bootstrap, and Jquery. Allows users to find films contained in the TMDB database.</p>
 
@@ -155,7 +151,6 @@ ___
 &nbsp;
 <a href="https://github.com/main-web-movies" target="_blank"><img src="https://img.shields.io/badge/Go%20to%20Repo-0A9812" title="Go to Repo" alt="TMDB Movies Repo" height="25" /></a>
 &nbsp;
-
 
 ___ 
 
@@ -202,7 +197,7 @@ ___
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-%40kepinh_-8A2BE2?logo=Discord&logoColor=blue&color=white" title="Discord" alt="Discord" /></a>
 &nbsp;
 
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [intro_anchor]: #intro--
 [non_formal_education_anchor]: #non-formal-education
