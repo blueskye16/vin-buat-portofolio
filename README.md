@@ -186,11 +186,8 @@ ___
   </tr>
 </table>
 
-_For certification details please click the picture_
-
-___
-
-### Volunteer Organization
+> [!NOTE]
+> _For certification details please click the picture_
 
 ___
 
