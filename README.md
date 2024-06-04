@@ -197,7 +197,7 @@ ___
 &nbsp;
 <a href="https://github.com/blueskye16"><img src="https://img.shields.io/badge/Github-8A2BE2?logo=github&logoColor=black&color=white" title="Github" alt="Github" /></a>
 &nbsp;
-<a href="https://github.com/blueskye16"><img src="https://img.shields.io/badge/Instagram-8A2BE2?logo=Instagram&logoColor=purple&color=white" title="Instagram" alt="Instagram" /></a>
+<a href="https://www.instagram.com/fkvin_/"><img src="https://img.shields.io/badge/Instagram-8A2BE2?logo=Instagram&logoColor=purple&color=white" title="Instagram" alt="Instagram" /></a>
 &nbsp;
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-%40kepinh_-8A2BE2?logo=Discord&logoColor=blue&color=white" title="Discord" alt="Discord" /></a>
 &nbsp;
